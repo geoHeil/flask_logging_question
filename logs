@@ -1,0 +1,4 @@
+2017-09-28 11:53:45 - INFO - my logger - but not in flask
+2017-09-28 11:53:45 - INFO - other module not logged properly
+2017-09-28 11:55:13 - INFO - my logger - but not in flask
+2017-09-28 11:55:13 - INFO - other module not logged properly

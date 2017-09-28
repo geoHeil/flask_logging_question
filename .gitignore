@@ -1,0 +1,4 @@
+flask_sample.iml
+.idea
+my_pkg/__pycache__
+settings/__pycache__
