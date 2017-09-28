@@ -5,6 +5,7 @@ from settings.settings import configure_logger
 
 app = Flask(__name__)
 logger = configure_logger(log_path='./logs/')
+app.logger.addHandler(logger)
 
 
 @app.route("/api/foo/", methods=["GET"])
